@@ -11,7 +11,7 @@ We study the strong coupling between photons and atoms that can be achieved in a
 
 # References：
 
-[1] X. Qi, B. Q. Baragiola, P. S. Jessen, I. H. Deutsch, Phys. Rev. A 93, 023817 (2016).
+[1] X. Qi, B. Q. Baragiola, P. S. Jessen, I. H. Deutsch, [Phys. Rev. A 93, 023817](https://github.com/CQuIC/NanofiberPaper2014/releases) (2016).
 
 [2] S. T. Dawkins, R. Mitsch, D. Reitz, E. Vetsch, and A. Rauschenbeutel, Phys. Rev. Lett. 107, 243601 (2011).
 
